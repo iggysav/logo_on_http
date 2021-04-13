@@ -11,4 +11,4 @@ COPY api_lis.rb /tmp
 CMD ["ruby", "api_lis.rb"]
 
 EXPOSE 8080
-~
+
